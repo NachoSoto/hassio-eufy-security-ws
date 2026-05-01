@@ -9,4 +9,9 @@ codenotary:
   #signer: patrick.broetto@gmail.com
   base_image: notary@home-assistant.io
 args:
-  EUFY_SECURITY_WS_VERSION: 2.1.0
+  EUFY_SECURITY_CLIENT_REPO: https://github.com/NachoSoto/eufy-security-client.git
+  EUFY_SECURITY_CLIENT_REF: v3.8.0-t8170-stream-metadata
+  EUFY_SECURITY_CLIENT_CACHE_KEY: 2f768874820a8b7f0c14a6da864b93d8a25cc8ee
+  EUFY_SECURITY_WS_REPO: https://github.com/NachoSoto/eufy-security-ws.git
+  EUFY_SECURITY_WS_REF: v2.1.0-t8170-client
+  EUFY_SECURITY_WS_CACHE_KEY: 997986454cf739ec4cfa2b0abda08bd37ddadea9
