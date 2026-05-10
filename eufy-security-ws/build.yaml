@@ -11,7 +11,7 @@ codenotary:
 args:
   EUFY_SECURITY_CLIENT_REPO: https://github.com/NachoSoto/eufy-security-client.git
   EUFY_SECURITY_CLIENT_REF: v3.8.0-t8170-stream-metadata
-  EUFY_SECURITY_CLIENT_CACHE_KEY: e699606
+  EUFY_SECURITY_CLIENT_CACHE_KEY: 0b0d587
   EUFY_SECURITY_WS_REPO: https://github.com/NachoSoto/eufy-security-ws.git
   EUFY_SECURITY_WS_REF: v2.1.0-t8170-client
   EUFY_SECURITY_WS_CACHE_KEY: 282477a
